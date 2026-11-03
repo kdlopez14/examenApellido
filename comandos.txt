@@ -2,4 +2,4 @@
    mkdir si 
    mkdir bbdd
 2. touch index.html 
-
+3.  git add ../prog/index.html >> ../bbdd/consultas.sql 
