@@ -1,1 +1,5 @@
-1. Rama 1 Comando
+1. mkdir prog 
+   mkdir si 
+   mkdir bbdd
+2. touch index.html 
+
